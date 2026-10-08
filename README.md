@@ -14,10 +14,7 @@ Adds new and otherwise unavailable features to existing buttons/knobs for the Pi
 
 - Further MergeFX Mappings
 - JogCutter Remap
-## Planned Features
 
-- Further MergeFX Mappings
-- JogCutter Remap
 ## Notes
 
 - MergeFX JogPitchBend is the reverse of usual jog nudging - rotate clockwise for slower speed, rotate anti-clockwise for faster speed
